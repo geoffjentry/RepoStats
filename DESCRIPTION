@@ -1,0 +1,11 @@
+Package: RepoStats
+Title: Get statistics on Github repositories
+Description: Tools to inspect Github repository usage
+Version: 0.0.1
+Author: Jeff Gentry <geoffjentry@gmail.com>
+Maintainer: Jeff Gentry <geoffjentry@gmail.com>
+Depends: R (>= 3.5.3)
+Imports: gh
+License: Apache 2.0 
+LazyData: yes
+
